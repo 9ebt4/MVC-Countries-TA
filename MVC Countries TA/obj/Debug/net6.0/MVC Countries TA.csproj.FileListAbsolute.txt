@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\MVC Countries TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\MVC Countries TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\MVC Countries TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\MVC Countries TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\MVC Countries TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\bin\Debug\net6.0\MVC Countries TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\bin\Debug\net6.0\MVC Countries TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\bin\Debug\net6.0\MVC Countries TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\bin\Debug\net6.0\MVC Countries TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\bin\Debug\net6.0\MVC Countries TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\MVC Countries TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\refint\MVC Countries TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\MVC Countries TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\MVC Countries TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\MVC Countries TA\MVC Countries TA\obj\Debug\net6.0\ref\MVC Countries TA.dll
